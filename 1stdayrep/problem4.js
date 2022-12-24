@@ -1,0 +1,16 @@
+var name ="𝓢𝓐𝓡𝓘𝓣𝓐";
+var school="𝕊.𝕍.𝕄";
+var grade="𝔹";
+var section="𝑩";
+var rollno="𝟚𝟜";
+var mark1="𝑃ℎ𝑦𝑠𝑖𝑐𝑠-45";
+var mark2="Math-40";
+var mark3="English-49";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(mark1);
+console.log(mark2);
+console.log(mark3);
